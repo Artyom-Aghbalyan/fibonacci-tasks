@@ -4,7 +4,7 @@ function getFibonacciNumber(index) {
   }
   
   let nFiboNumber;
-  let num1 = 0;
+  let num1 = 1;
   let num2 = 1;
   let i = 1;
   
