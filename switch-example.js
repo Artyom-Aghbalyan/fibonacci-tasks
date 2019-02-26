@@ -10,7 +10,7 @@ function getFibonacciNumber(index) {
   
   switch (index) {
     case 0: 
-      nFiboNumber = 0;
+      nFiboNumber = 1;
       break;
     case 1:
       nFiboNumber = 1;
